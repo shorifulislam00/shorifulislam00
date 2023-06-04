@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning laravel, architecture and data structure
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me ...
+- Linkedin: https://www.linkedin.com/in/shoriful00/
 
 <!---
 shorifulislam00/shorifulislam00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
